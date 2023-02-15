@@ -35,7 +35,7 @@ const About = () => {
             <h5>Project</h5>
             <small>80+ Completed Project</small>
             </article>
-
+    
           </div>
 
           <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quis tempore nostrum optio asperiores maxime blanditiis officiis. Eius veritatis odit doloribus nisi, autem maiores. Voluptates.</p>
